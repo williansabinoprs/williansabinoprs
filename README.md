@@ -5,4 +5,3 @@ Tenho **16 anos** e estou iniciando minha jornada em **Tecnologia da Informaçã
 <div>
     <img align="center" alt="Rafa-Python" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-

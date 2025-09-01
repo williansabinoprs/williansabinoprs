@@ -15,3 +15,5 @@ Tenho **16 anos** e estou iniciando minha jornada em **Tecnologia da Informaçã
 </div>
 
 ---
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=williansabinoprs.williansabinoprs&left_color=red&right_color=black"  />

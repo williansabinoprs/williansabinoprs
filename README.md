@@ -6,6 +6,12 @@ Tenho **16 anos** e estou iniciando minha jornada em **Tecnologia da Informaçã
 
 # 🧑‍💻 Linguagens e Tecnologias
 
-<div>
-        <img align="center" alt="Rafa-Python" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+---

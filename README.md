@@ -16,4 +16,9 @@ Tenho **16 anos** e estou iniciando minha jornada em **Tecnologia da Informaçã
 
 ---
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=williansabinoprs.williansabinoprs&left_color=red&right_color=black"  />
+# 📫 Contatos
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
+</div>
+

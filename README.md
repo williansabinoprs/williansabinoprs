@@ -1,10 +1,10 @@
-# 🌎 Prazer, sou Willian! 
+# 🌎 Hi, I'm Willian!
 
-Tenho **16 anos** e estou iniciando minha jornada em **Tecnologia da Informação**. Atualmente estudo **Python** e tenho grande interesse em **Inteligência Artificial (IA)** e **Machine Learning (ML)**. Meu objetivo é evoluir como desenvolvedor, criar projetos próprios e, no futuro, trabalhar com soluções que utilizem **IA e ML**.  
+I’m **16 years old** and I’m starting my journey in **Information Technology**. I’m currently studying **Python** and have a strong interest in **Artificial Intelligence (AI)** and **Machine Learning (ML)**. My goal is to grow as a developer, create my own projects, and, in the future, work with solutions that use **AI and ML**.
 
 ---
 
-# 💻 Linguagens e Tecnologias
+# 💻 Languages ​​and technology
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -15,7 +15,7 @@ Tenho **16 anos** e estou iniciando minha jornada em **Tecnologia da Informaçã
 
 ---
 
-# 📫 Contatos
+# 📫 Contacts
 
 <div align="left">
   <a href="sabinowillian.dev@gmail.com" target="_blank">

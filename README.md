@@ -15,11 +15,8 @@ I’m **16 years old** and I’m from **Brazil**, starting my journey in **Infor
 
 ---
 
-# 📫 Contacts
+# 📫 How to Reach Me
 
-<div align="left">
-  <a href="sabinowillian.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
+- ✉️  **sabinowillian.dev@gmail.com**
+  
+---
